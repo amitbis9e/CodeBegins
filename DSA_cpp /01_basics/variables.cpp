@@ -25,5 +25,14 @@ int main(){
    cout<<weight<<endl;
    cout<<isMale<<endl;
    cout<<isGirl<<endl;
+   
+cout<<endl;
+
+// variable declare
+float marks;
+ cout<< "Enter your Marks:";
+ cin>>marks;
+cout<<endl<<"your marks is:"<<marks;
+
 
 }
